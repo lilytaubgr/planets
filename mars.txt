@@ -3,3 +3,4 @@ Dracula and Wolfman want to start a base on mars!
 Dracula and Wolfman have made the initial journy to mars.
 Observation: no sign of life
 Observation_a: wait, there's something here! Yet to be identified...
+Observation_b: oh no, it's a human-eating alien! ABORT MISSION
